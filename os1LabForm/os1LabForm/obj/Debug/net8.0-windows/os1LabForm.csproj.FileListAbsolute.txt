@@ -1,0 +1,17 @@
+D:\c# progs\os1LabForm\os1LabForm\bin\Debug\net8.0-windows\os1LabForm.exe
+D:\c# progs\os1LabForm\os1LabForm\bin\Debug\net8.0-windows\os1LabForm.deps.json
+D:\c# progs\os1LabForm\os1LabForm\bin\Debug\net8.0-windows\os1LabForm.runtimeconfig.json
+D:\c# progs\os1LabForm\os1LabForm\bin\Debug\net8.0-windows\os1LabForm.dll
+D:\c# progs\os1LabForm\os1LabForm\bin\Debug\net8.0-windows\os1LabForm.pdb
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.Form1.resources
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.csproj.GenerateResource.cache
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.AssemblyInfoInputs.cache
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.AssemblyInfo.cs
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.csproj.CoreCompileInputs.cache
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.sourcelink.json
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.dll
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\refint\os1LabForm.dll
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.pdb
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\os1LabForm.genruntimeconfig.cache
+D:\c# progs\os1LabForm\os1LabForm\obj\Debug\net8.0-windows\ref\os1LabForm.dll

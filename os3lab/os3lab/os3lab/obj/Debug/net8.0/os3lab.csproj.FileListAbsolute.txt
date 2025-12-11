@@ -1,0 +1,14 @@
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.AssemblyInfoInputs.cache
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.AssemblyInfo.cs
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.csproj.CoreCompileInputs.cache
+D:\c# progs\os3lab\os3lab\os3lab\bin\Debug\net8.0\os3lab.exe
+D:\c# progs\os3lab\os3lab\os3lab\bin\Debug\net8.0\os3lab.deps.json
+D:\c# progs\os3lab\os3lab\os3lab\bin\Debug\net8.0\os3lab.runtimeconfig.json
+D:\c# progs\os3lab\os3lab\os3lab\bin\Debug\net8.0\os3lab.dll
+D:\c# progs\os3lab\os3lab\os3lab\bin\Debug\net8.0\os3lab.pdb
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.dll
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\refint\os3lab.dll
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.pdb
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\os3lab.genruntimeconfig.cache
+D:\c# progs\os3lab\os3lab\os3lab\obj\Debug\net8.0\ref\os3lab.dll
