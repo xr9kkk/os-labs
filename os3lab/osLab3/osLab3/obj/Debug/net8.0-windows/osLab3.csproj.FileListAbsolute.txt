@@ -1,0 +1,17 @@
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\OS_Lab3.SnapshotForm.resources
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.csproj.GenerateResource.cache
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.AssemblyInfoInputs.cache
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.AssemblyInfo.cs
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.sourcelink.json
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\bin\Debug\net8.0-windows\osLab3.exe
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\bin\Debug\net8.0-windows\osLab3.deps.json
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\bin\Debug\net8.0-windows\osLab3.runtimeconfig.json
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\bin\Debug\net8.0-windows\osLab3.dll
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\bin\Debug\net8.0-windows\osLab3.pdb
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.dll
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\refint\osLab3.dll
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.pdb
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\osLab3.genruntimeconfig.cache
+C:\Users\ivank\OneDrive\Desktop\OS\os-labs\os3lab\osLab3\osLab3\obj\Debug\net8.0-windows\ref\osLab3.dll
